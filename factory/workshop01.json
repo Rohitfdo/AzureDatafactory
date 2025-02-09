@@ -1,0 +1,9 @@
+{
+	"name": "workshop01",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "31a21b87-c275-40a3-9250-fef2323c32af",
+		"tenantId": "dbd15d47-5510-4670-a6c0-cfe9783b0ed3"
+	}
+}
